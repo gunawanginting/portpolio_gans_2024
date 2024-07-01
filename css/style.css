@@ -39,20 +39,7 @@ header {
     background: #1b1f24;
     transition: all .50s ease;
 }
-.logo{
-    font-size: 40px;
-    color: var(--text-color);
-    font-weight: 600;
-}
 
-.logo {
-    display: inline-block;
-    background: url('../img/logogans.png') no-repeat;
-    background-size: contain; /* Sesuaikan sesuai kebutuhan */
-    text-indent: -9999px; /* Menggeser teks keluar dari layar */
-    width: 150px; /* Sesuaikan lebar sesuai kebutuhan */
-    height: 50px; /* Sesuaikan tinggi sesuai kebutuhan */
-  }
   
 span{
     color: var(--main-color);
